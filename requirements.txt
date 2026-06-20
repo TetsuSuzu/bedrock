@@ -1,0 +1,3 @@
+boto3==1.43.34
+# AWS Common Runtime (CRT) を使う場合は以下を使用:
+# boto3[crt]==1.43.34
