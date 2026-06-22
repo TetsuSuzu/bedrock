@@ -8,6 +8,7 @@
 - [q31-q39.md](./q31-q39.md) — Q.31〜Q.39（翻訳・正解・解説）
 - [q40-q58.md](./q40-q58.md) — Q.40〜Q.58（翻訳・正解・解説）
 - [practice-set-2.md](./practice-set-2.md) — 追加練習問題 15 問（番号なし問題群）
+- [aip-questions.md](./aip-questions.md) — AIP 問題の解説（AIP-9, AIP-15 ほか）
 - [key-learnings.md](./key-learnings.md) — Key Learnings（重要用語まとめ）
 - [bedrock-knowledge-base-notes.md](./bedrock-knowledge-base-notes.md) — Bedrock ナレッジベース / OpenSearch Serverless に関する調査・実機作業メモ
 
